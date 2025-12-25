@@ -1,0 +1,7 @@
+{
+  "name": "Celestial Christmas Tree",
+  "description": "A high-performance WebGL Christmas experience with AI hand-gesture control, featuring a particle-based tree, dynamic transitions, and interactive blessing cards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
